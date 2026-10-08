@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ishwari Kule
 
-### 💊 B.Pharm Graduate | 📊 Aspiring Data Analyst
+### 💊 B.Pharmacy Graduate | 📊 Aspiring Data Analyst
 
 **SQL • Power BI • Advanced Excel • Python**
 
