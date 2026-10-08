@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I’m a B.Pharm graduate building my career in Data Analytics, with a strong interest in healthcare, pharmaceutical, and business data.
+I’m a B.Pharmacy graduate building my career in Data Analytics, with a strong interest in healthcare, pharmaceutical, and business data.
 
 I enjoy working with data to uncover patterns, create meaningful visualizations, and turn raw information into actionable insights.
 
